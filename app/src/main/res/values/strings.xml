@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android CameraX</string>
+    <string name="capture_button">Capture Button</string>
 </resources>
